@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+### **Spotify Clone Static**
+![ScreenCardReactTailwind](https://user-images.githubusercontent.com/82125128/127564077-f1f1c9cf-5aef-4419-8f8d-a4c5f831da79.JPG)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
